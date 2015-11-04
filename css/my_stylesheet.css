@@ -1,0 +1,14 @@
+img.headshot{
+	width: 200px;
+}
+
+img.inline{
+	width: 450px;
+	float:left;
+}
+
+img#smartbart_screenshot{
+	margin-right: 35px;
+	margin-bottom: 35px;
+}
+
